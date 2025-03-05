@@ -22,6 +22,7 @@ coding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
+| [2649-count-total-number-of-colored-cells](https://github.com/nainshi880/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Matrix
 |  |
 | ------- |
