@@ -10,6 +10,7 @@ coding
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -46,6 +47,7 @@ coding
 ## Hash Table
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -61,6 +63,7 @@ coding
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
@@ -74,4 +77,8 @@ coding
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
