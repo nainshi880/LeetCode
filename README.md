@@ -12,6 +12,7 @@ coding
 | [0215-kth-largest-element-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -55,6 +56,7 @@ coding
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ coding
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
