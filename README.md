@@ -15,6 +15,7 @@ coding
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -94,6 +95,7 @@ coding
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
