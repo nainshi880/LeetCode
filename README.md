@@ -6,6 +6,7 @@ coding
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ coding
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -111,6 +113,7 @@ coding
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
