@@ -42,6 +42,7 @@ coding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nainshi880/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
