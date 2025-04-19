@@ -73,6 +73,7 @@ coding
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
@@ -161,8 +162,17 @@ coding
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nainshi880/LeetCode/tree/master/0279-perfect-squares) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
