@@ -78,6 +78,7 @@ coding
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/nainshi880/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nainshi880/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/nainshi880/LeetCode/tree/master/0097-interleaving-string) |
