@@ -42,6 +42,7 @@ coding
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/nainshi880/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ coding
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/nainshi880/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nainshi880/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
@@ -179,6 +181,7 @@ coding
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nainshi880/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nainshi880/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nainshi880/LeetCode/tree/master/0078-subsets) |
