@@ -45,6 +45,7 @@ coding
 | ------- |
 | [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/nainshi880/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainshi880/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -62,6 +63,7 @@ coding
 | ------- |
 | [0029-divide-two-integers](https://github.com/nainshi880/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/nainshi880/LeetCode/tree/master/0279-perfect-squares) |
@@ -192,6 +194,7 @@ coding
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
