@@ -28,6 +28,7 @@ coding
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -85,6 +86,7 @@ coding
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -227,4 +229,8 @@ coding
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nainshi880/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
