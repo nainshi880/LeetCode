@@ -83,6 +83,7 @@ coding
 | [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -138,6 +139,7 @@ coding
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
