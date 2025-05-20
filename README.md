@@ -12,6 +12,7 @@ coding
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nainshi880/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nainshi880/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
@@ -47,6 +48,7 @@ coding
 | [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/nainshi880/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nainshi880/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +78,7 @@ coding
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
