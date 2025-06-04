@@ -157,6 +157,7 @@ coding
 | [0142-linked-list-cycle-ii](https://github.com/nainshi880/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/nainshi880/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
