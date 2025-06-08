@@ -242,6 +242,7 @@ coding
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
+| [0386-lexicographical-numbers](https://github.com/nainshi880/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -262,4 +263,8 @@ coding
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nainshi880/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nainshi880/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
