@@ -69,6 +69,7 @@ coding
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nainshi880/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/nainshi880/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
