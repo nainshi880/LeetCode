@@ -7,6 +7,7 @@ coding
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/nainshi880/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nainshi880/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
@@ -95,6 +96,7 @@ coding
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
