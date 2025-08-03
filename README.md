@@ -20,6 +20,7 @@ coding
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nainshi880/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/nainshi880/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nainshi880/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
@@ -190,6 +191,7 @@ coding
 | ------- |
 | [0029-divide-two-integers](https://github.com/nainshi880/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/nainshi880/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/nainshi880/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
