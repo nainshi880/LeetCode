@@ -187,6 +187,7 @@ coding
 | [0141-linked-list-cycle](https://github.com/nainshi880/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainshi880/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/nainshi880/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1765-merge-in-between-linked-lists](https://github.com/nainshi880/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
