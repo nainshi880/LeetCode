@@ -34,6 +34,7 @@ coding
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0792-binary-search) |
@@ -185,6 +186,7 @@ coding
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/nainshi880/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
