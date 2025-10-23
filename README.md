@@ -88,6 +88,7 @@ coding
 | [0007-reverse-integer](https://github.com/nainshi880/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/nainshi880/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/nainshi880/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nainshi880/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/nainshi880/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -225,6 +226,7 @@ coding
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/nainshi880/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/nainshi880/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
