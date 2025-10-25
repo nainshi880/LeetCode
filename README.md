@@ -36,6 +36,7 @@ coding
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -164,6 +165,7 @@ coding
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -314,12 +316,14 @@ coding
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
