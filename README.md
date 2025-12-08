@@ -315,6 +315,7 @@ coding
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/nainshi880/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -384,4 +385,8 @@ coding
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nainshi880/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nainshi880/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
