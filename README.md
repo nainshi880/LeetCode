@@ -146,6 +146,7 @@ coding
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -166,6 +167,7 @@ coding
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +181,7 @@ coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainshi880/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
