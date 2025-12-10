@@ -43,6 +43,7 @@ coding
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nainshi880/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -172,6 +173,7 @@ coding
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -183,6 +185,7 @@ coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainshi880/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -245,6 +248,7 @@ coding
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
