@@ -16,6 +16,7 @@ coding
 | [0049-group-anagrams](https://github.com/nainshi880/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nainshi880/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nainshi880/LeetCode/tree/master/0078-subsets) |
@@ -74,6 +75,7 @@ coding
 | ------- |
 | [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/nainshi880/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/nainshi880/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nainshi880/LeetCode/tree/master/0072-edit-distance) |
@@ -344,6 +346,7 @@ coding
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nainshi880/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
