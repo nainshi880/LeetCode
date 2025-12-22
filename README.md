@@ -170,6 +170,7 @@ coding
 | [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -458,6 +459,7 @@ coding
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
