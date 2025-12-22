@@ -138,6 +138,7 @@ coding
 | [0016-3sum-closest](https://github.com/nainshi880/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nainshi880/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
@@ -155,6 +156,7 @@ coding
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainshi880/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nainshi880/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/nainshi880/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nainshi880/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nainshi880/LeetCode/tree/master/0072-edit-distance) |
@@ -455,6 +457,7 @@ coding
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
