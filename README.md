@@ -40,6 +40,7 @@ coding
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -192,6 +193,7 @@ coding
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/nainshi880/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -295,6 +297,7 @@ coding
 | [0078-subsets](https://github.com/nainshi880/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nainshi880/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nainshi880/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -447,6 +450,7 @@ coding
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nainshi880/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
