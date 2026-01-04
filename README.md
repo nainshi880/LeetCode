@@ -200,6 +200,7 @@ coding
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/nainshi880/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
