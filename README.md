@@ -72,6 +72,7 @@ coding
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
