@@ -43,6 +43,7 @@ coding
 | [0238-product-of-array-except-self](https://github.com/nainshi880/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -417,6 +418,7 @@ coding
 | [0055-jump-game](https://github.com/nainshi880/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/nainshi880/LeetCode/tree/master/0621-task-scheduler) |
