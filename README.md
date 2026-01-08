@@ -69,6 +69,7 @@ coding
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/nainshi880/LeetCode/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -246,6 +247,7 @@ coding
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@ coding
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/nainshi880/LeetCode/tree/master/0621-task-scheduler) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
