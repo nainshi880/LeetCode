@@ -85,6 +85,7 @@ coding
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nainshi880/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -296,6 +297,7 @@ coding
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
@@ -309,6 +311,7 @@ coding
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
