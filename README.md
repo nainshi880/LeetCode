@@ -75,6 +75,7 @@ coding
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -386,6 +387,7 @@ coding
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
