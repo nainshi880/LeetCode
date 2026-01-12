@@ -18,9 +18,9 @@ class Solution {
                 while(map.containsKey(key+k) == true){
                     k++;
                 }
-            
-            max = Math.max(max,k);
             }
+            max = Math.max(max,k);
+            
         }
         return max;
     }
