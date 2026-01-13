@@ -414,6 +414,7 @@ coding
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainshi880/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -472,6 +473,7 @@ coding
 | [0145-binary-tree-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/nainshi880/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nainshi880/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/nainshi880/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -581,6 +583,7 @@ coding
 | ------- |
 | [0155-min-stack](https://github.com/nainshi880/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nainshi880/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
