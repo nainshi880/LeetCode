@@ -18,7 +18,7 @@ class Solution {
 
         int start = 0;
         int end = sb.length()-1;
-        while(start <= end){
+        while(start < end){
             int echar = sb.charAt(end);
             int schar = sb.charAt(start);
             if(echar != schar){
