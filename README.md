@@ -191,6 +191,7 @@ coding
 | [0075-sort-colors](https://github.com/nainshi880/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nainshi880/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/nainshi880/LeetCode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/nainshi880/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nainshi880/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainshi880/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -221,6 +222,7 @@ coding
 | [0072-edit-distance](https://github.com/nainshi880/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/nainshi880/LeetCode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/nainshi880/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nainshi880/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
