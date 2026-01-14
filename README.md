@@ -81,6 +81,7 @@ coding
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/nainshi880/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
