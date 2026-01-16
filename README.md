@@ -82,6 +82,7 @@ coding
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/nainshi880/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nainshi880/LeetCode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -179,6 +180,7 @@ coding
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
+| [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
