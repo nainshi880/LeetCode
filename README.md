@@ -65,6 +65,7 @@ coding
 | [0792-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/nainshi880/LeetCode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/nainshi880/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -180,6 +181,7 @@ coding
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
+| [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -544,6 +546,7 @@ coding
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
