@@ -19,8 +19,7 @@ class Solution {
             if(curr.val != 0){
                 sum += curr.val;
             }else{
-                ListNode temp = new ListNode(sum);
-                dummy.next = temp;
+                dummy.next = new ListNode(sum);;
                 dummy = dummy.next;
                 sum =0;
             }
