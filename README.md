@@ -374,6 +374,7 @@ coding
 | [0725-split-linked-list-in-parts](https://github.com/nainshi880/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/nainshi880/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -570,6 +571,7 @@ coding
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Tree
