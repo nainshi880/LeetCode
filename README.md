@@ -524,6 +524,7 @@ coding
 | [0101-symmetric-tree](https://github.com/nainshi880/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nainshi880/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nainshi880/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/nainshi880/LeetCode/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -564,6 +565,7 @@ coding
 | [0094-binary-tree-inorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/nainshi880/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -596,6 +598,7 @@ coding
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nainshi880/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -624,6 +627,7 @@ coding
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nainshi880/LeetCode/tree/master/0222-count-complete-tree-nodes) |
