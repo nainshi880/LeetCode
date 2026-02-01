@@ -102,6 +102,7 @@ coding
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nainshi880/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nainshi880/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -456,6 +457,7 @@ coding
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/nainshi880/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -507,6 +509,7 @@ coding
 | [0204-count-primes](https://github.com/nainshi880/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
 |  |
 | ------- |
