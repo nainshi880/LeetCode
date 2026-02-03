@@ -637,6 +637,7 @@ coding
 | [0543-diameter-of-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nainshi880/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
@@ -647,6 +648,7 @@ coding
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -672,6 +674,7 @@ coding
 | [0543-diameter-of-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nainshi880/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Trie
