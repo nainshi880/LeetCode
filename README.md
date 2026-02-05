@@ -108,6 +108,7 @@ coding
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nainshi880/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -615,6 +616,7 @@ coding
 | [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 ## Tree
 |  |
 | ------- |
