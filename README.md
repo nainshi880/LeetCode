@@ -153,6 +153,7 @@ coding
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -539,6 +540,7 @@ coding
 | [0860-lemonade-change](https://github.com/nainshi880/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
@@ -608,6 +610,7 @@ coding
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -652,6 +655,7 @@ coding
 | [0701-insert-into-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -665,6 +669,7 @@ coding
 | [0700-search-in-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -695,6 +700,7 @@ coding
 | [0701-insert-into-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
