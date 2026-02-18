@@ -466,6 +466,7 @@ coding
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/nainshi880/LeetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nainshi880/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
