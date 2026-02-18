@@ -199,6 +199,7 @@ coding
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nainshi880/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -293,6 +294,7 @@ coding
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nainshi880/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
@@ -552,6 +554,7 @@ coding
 | ------- |
 | [0062-unique-paths](https://github.com/nainshi880/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -667,6 +670,7 @@ coding
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -775,6 +779,7 @@ coding
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nainshi880/LeetCode/tree/master/0204-count-primes) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
