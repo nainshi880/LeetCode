@@ -105,6 +105,7 @@ coding
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nainshi880/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -304,6 +305,7 @@ coding
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2384-largest-palindromic-number](https://github.com/nainshi880/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nainshi880/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -345,6 +347,7 @@ coding
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nainshi880/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2384-largest-palindromic-number](https://github.com/nainshi880/LeetCode/tree/master/2384-largest-palindromic-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nainshi880/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -415,6 +418,7 @@ coding
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nainshi880/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nainshi880/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2384-largest-palindromic-number](https://github.com/nainshi880/LeetCode/tree/master/2384-largest-palindromic-number) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -499,6 +503,7 @@ coding
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nainshi880/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nainshi880/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
