@@ -686,6 +686,7 @@ coding
 | [0617-merge-two-binary-trees](https://github.com/nainshi880/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Interactive
@@ -735,6 +736,7 @@ coding
 | [0701-insert-into-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -780,6 +782,7 @@ coding
 | [0701-insert-into-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
