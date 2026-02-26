@@ -47,6 +47,7 @@ coding
 | [0238-product-of-array-except-self](https://github.com/nainshi880/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nainshi880/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -243,6 +244,7 @@ coding
 | [0160-intersection-of-two-linked-lists](https://github.com/nainshi880/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainshi880/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/nainshi880/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
