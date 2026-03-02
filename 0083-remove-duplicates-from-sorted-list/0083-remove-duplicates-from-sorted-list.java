@@ -14,18 +14,19 @@ class Solution {
             return head;
         }
 
-        ListNode dummy = new ListNode(head.val);
-        ListNode ans = dummy;
+        ListNode i = head;
+        ListNode j = head;
 
-        ListNode ptr = head.next;
-        while(ptr != null){
-            if(ptr.val != dummy.val){
-                ListNode temp = new ListNode(ptr.val);
-                dummy.next = temp;
-                dummy = dummy.next;
+        while(j != null){
+            if(i.val == j.val){
+               j = j.next;
+            }else{
+                i.next = j;
+                i = j;
             }
-            ptr = ptr.next;
         }
-        return ans;
+           i.next = j;
+    
+        return head;
     }
 }
