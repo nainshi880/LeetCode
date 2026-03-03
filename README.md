@@ -76,6 +76,7 @@ coding
 | [0907-koko-eating-bananas](https://github.com/nainshi880/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/nainshi880/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -255,6 +256,7 @@ coding
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/nainshi880/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/nainshi880/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/nainshi880/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -302,6 +304,7 @@ coding
 | [0761-special-binary-string](https://github.com/nainshi880/LeetCode/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1332-remove-palindromic-subsequences](https://github.com/nainshi880/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -637,6 +640,7 @@ coding
 | [0860-lemonade-change](https://github.com/nainshi880/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
