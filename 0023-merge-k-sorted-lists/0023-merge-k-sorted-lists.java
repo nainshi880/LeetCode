@@ -9,24 +9,40 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<ListNode> minHeap = new PriorityQueue<>((a,b) -> a.val - b.val);
-        for(ListNode node : lists){
-            if (node != null) {
-                minHeap.offer(node);
-            }
-        } 
-         ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-            while (!minHeap.isEmpty()) {
-            ListNode node = minHeap.poll();
-            tail.next = node;
-            tail = tail.next;
-
-            if (node.next != null) {
-                minHeap.offer(node.next);
-            }
+    public static ListNode merge(ListNode head1,ListNode head2){
+        ListNode i= head1;
+        ListNode j= head2;
+        ListNode dummy = new ListNode(-1);
+       ListNode k = dummy;
+       while(i != null &&j!= null){
+        if(i.val <= j.val){
+            k.next = i;
+            i = i.next;
+        }else{
+            k.next = j;
+            j = j.next;
         }
-        return dummy.next;
+        k = k.next;
+       }
+        if(i != null){
+            k.next = i;
+        }else k.next = j;
+       return dummy.next;
+    }
+    public ListNode mergeKLists(ListNode[] lists) {
+        if(lists.length == 0){
+            return null;
+        }
+       ArrayList<ListNode> arr = new ArrayList<>();
+       for(ListNode node : lists) arr.add(node);
+        while(arr.size() >1){
+       ListNode a = arr.get(arr.size()-1);
+       arr.remove(arr.size()-1);
+       ListNode b = arr.get(arr.size()-1);
+       arr.remove(arr.size()-1);
+       ListNode c = merge(a,b);
+         arr.add(c);
+        }
+        return arr.get(0);
     }
 }
