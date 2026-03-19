@@ -64,6 +64,7 @@ coding
 | [0560-subarray-sum-equals-k](https://github.com/nainshi880/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/nainshi880/LeetCode/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/nainshi880/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainshi880/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nainshi880/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -698,6 +699,7 @@ coding
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/nainshi880/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -749,6 +751,7 @@ coding
 | [0043-multiply-strings](https://github.com/nainshi880/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nainshi880/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nainshi880/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/nainshi880/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
