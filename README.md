@@ -486,6 +486,7 @@ coding
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nainshi880/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -502,6 +503,7 @@ coding
 | [0394-decode-string](https://github.com/nainshi880/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -705,6 +707,7 @@ coding
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nainshi880/LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -714,6 +717,7 @@ coding
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
