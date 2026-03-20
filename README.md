@@ -105,6 +105,7 @@ coding
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -709,6 +710,7 @@ coding
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nainshi880/LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -720,6 +722,7 @@ coding
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
