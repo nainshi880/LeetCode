@@ -4,16 +4,18 @@ class Solution {
         int result[] = new int[n];
         Stack <Integer> stack = new Stack<Integer>();
 
-        Arrays.fill(result,-1);
+        for(int i=n-1;i>=0;i--){
+            stack.push(nums[i]);
+        }
 
-        for(int i=0;i<2*n;i++){
-            int num = nums[i % n];
-            while(!stack.isEmpty() && nums[stack.peek()] < num){
-                result[stack.pop()] = num;
+        for(int i=n-1;i>=0;i--){
+           
+            while(!stack.isEmpty() && nums[i] >= stack.peek()){
+                stack.pop();
             }
-            if(i<n){
-                stack.push(i);
-            }
+            if(stack.size() == 0) result[i] = -1;
+            else result[i] = stack.peek();
+            stack.push(nums[i]);
 
         } 
         return result;
