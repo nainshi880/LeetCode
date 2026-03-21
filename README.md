@@ -106,6 +106,7 @@ coding
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nainshi880/LeetCode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/nainshi880/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -215,6 +216,7 @@ coding
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
@@ -509,6 +511,7 @@ coding
 | [0241-different-ways-to-add-parentheses](https://github.com/nainshi880/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/nainshi880/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
@@ -617,6 +620,7 @@ coding
 | [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nainshi880/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -772,6 +776,7 @@ coding
 | [0682-baseball-game](https://github.com/nainshi880/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
