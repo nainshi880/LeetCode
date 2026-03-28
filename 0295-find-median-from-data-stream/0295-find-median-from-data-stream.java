@@ -6,8 +6,9 @@ class MedianFinder {
     public void addNum(int num) {
        max.add(num);
           min.add(max.poll());
-        if(max.size() == min.size()+2) min.add(max.remove());
-        if(min.size() == max.size()+2) max.add(min.remove());
+        if (min.size() > max.size()) {
+            max.add(min.poll());
+        }
         
     }
     
