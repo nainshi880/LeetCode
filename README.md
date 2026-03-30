@@ -355,6 +355,7 @@ coding
 | [2483-minimum-penalty-for-a-shop](https://github.com/nainshi880/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/nainshi880/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nainshi880/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nainshi880/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
