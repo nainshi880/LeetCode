@@ -360,6 +360,7 @@ coding
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
@@ -703,6 +704,7 @@ coding
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nainshi880/LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2384-largest-palindromic-number](https://github.com/nainshi880/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -917,6 +919,7 @@ coding
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
 | ------- |
