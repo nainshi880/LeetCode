@@ -79,6 +79,7 @@ coding
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nainshi880/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/nainshi880/LeetCode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -247,6 +248,7 @@ coding
 | [0074-search-a-2d-matrix](https://github.com/nainshi880/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nainshi880/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nainshi880/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -571,6 +573,7 @@ coding
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nainshi880/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nainshi880/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/nainshi880/LeetCode/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -697,6 +700,7 @@ coding
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/nainshi880/LeetCode/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
