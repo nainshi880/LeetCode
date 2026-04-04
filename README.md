@@ -53,6 +53,7 @@ coding
 | [0215-kth-largest-element-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/nainshi880/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nainshi880/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/nainshi880/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -567,6 +568,7 @@ coding
 | [0137-single-number-ii](https://github.com/nainshi880/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nainshi880/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nainshi880/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0260-single-number-iii](https://github.com/nainshi880/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/nainshi880/LeetCode/tree/master/0401-binary-watch) |
