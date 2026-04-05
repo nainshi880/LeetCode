@@ -76,6 +76,7 @@ coding
 | [0704-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainshi880/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nainshi880/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/nainshi880/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nainshi880/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/nainshi880/LeetCode/tree/master/0792-binary-search) |
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
@@ -173,6 +174,7 @@ coding
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/nainshi880/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
