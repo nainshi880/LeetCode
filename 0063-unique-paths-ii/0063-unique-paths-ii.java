@@ -4,13 +4,18 @@ class Solution {
         int m = ob.length;
         int n = ob[0].length;
          dp = new int[m][n];
-        return paths(m-1,n-1,ob);
+         if(ob[0][0] == 1) return 0;
+               dp[0][0] = 1;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(ob[i][j] == 1){
+                    dp[i][j] = 0;
+                }else {
+                if(i > 0) dp[i][j] += dp[i-1][j];
+                if(j > 0) dp[i][j] += dp[i][j-1];
+            }
+        }
     }
-    public static int paths(int i, int j,int[][] ob){
-         if(i < 0 || j < 0) return 0; 
-          if(dp[i][j] != 0) return dp[i][j];
-          if(ob[i][j] == 1) return 0;
-          if(i == 0 && j == 0) return 1;
-          return dp[i][j] = paths(i-1,j,ob)+paths(i,j-1,ob);
-    }
+    return dp[m-1][n-1];
+}
 }
