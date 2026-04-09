@@ -659,6 +659,7 @@ coding
 | [0225-implement-stack-using-queues](https://github.com/nainshi880/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nainshi880/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/nainshi880/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -958,6 +959,7 @@ coding
 | [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/nainshi880/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/nainshi880/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
 | ------- |
@@ -967,6 +969,7 @@ coding
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nainshi880/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/nainshi880/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Brainteaser
 |  |
 | ------- |
