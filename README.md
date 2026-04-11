@@ -67,6 +67,7 @@ coding
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nainshi880/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -178,6 +179,7 @@ coding
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/nainshi880/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -684,6 +686,7 @@ coding
 | [0113-path-sum-ii](https://github.com/nainshi880/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/nainshi880/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/nainshi880/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nainshi880/LeetCode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
