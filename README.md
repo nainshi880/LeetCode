@@ -185,6 +185,7 @@ coding
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/nainshi880/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -354,6 +355,7 @@ coding
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/nainshi880/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1332-remove-palindromic-subsequences](https://github.com/nainshi880/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
