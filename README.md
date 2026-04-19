@@ -258,6 +258,7 @@ coding
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/nainshi880/LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/nainshi880/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/nainshi880/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/nainshi880/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nainshi880/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -1031,4 +1032,8 @@ coding
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nainshi880/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/nainshi880/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
