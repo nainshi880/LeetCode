@@ -127,6 +127,7 @@ coding
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nainshi880/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nainshi880/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -249,6 +250,7 @@ coding
 | [1486-xor-operation-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nainshi880/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nainshi880/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/nainshi880/LeetCode/tree/master/2050-count-good-numbers) |
@@ -977,6 +979,7 @@ coding
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nainshi880/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nainshi880/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
