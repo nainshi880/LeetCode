@@ -67,6 +67,7 @@ coding
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/nainshi880/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -194,6 +195,7 @@ coding
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/nainshi880/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
@@ -247,6 +249,7 @@ coding
 | [0279-perfect-squares](https://github.com/nainshi880/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/nainshi880/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/nainshi880/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/nainshi880/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/nainshi880/LeetCode/tree/master/0504-base-7) |
