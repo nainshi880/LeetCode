@@ -60,6 +60,7 @@ coding
 | [0239-sliding-window-maximum](https://github.com/nainshi880/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/nainshi880/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nainshi880/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/nainshi880/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainshi880/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -679,6 +680,7 @@ coding
 | [0229-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nainshi880/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nainshi880/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nainshi880/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/nainshi880/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/nainshi880/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -1085,4 +1087,8 @@ coding
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nainshi880/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
