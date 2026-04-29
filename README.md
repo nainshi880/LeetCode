@@ -69,6 +69,7 @@ coding
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/nainshi880/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nainshi880/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nainshi880/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -253,6 +254,7 @@ coding
 | [0279-perfect-squares](https://github.com/nainshi880/LeetCode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/nainshi880/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/nainshi880/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nainshi880/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/nainshi880/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/nainshi880/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -445,6 +447,7 @@ coding
 | [0290-word-pattern](https://github.com/nainshi880/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/nainshi880/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/nainshi880/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nainshi880/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/nainshi880/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nainshi880/LeetCode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1045,6 +1048,7 @@ coding
 | [0225-implement-stack-using-queues](https://github.com/nainshi880/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainshi880/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/nainshi880/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nainshi880/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nainshi880/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/nainshi880/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
@@ -1093,4 +1097,8 @@ coding
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nainshi880/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nainshi880/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
