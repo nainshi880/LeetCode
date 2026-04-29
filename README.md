@@ -281,6 +281,7 @@ coding
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/nainshi880/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/nainshi880/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nainshi880/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/nainshi880/LeetCode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
