@@ -209,6 +209,7 @@ coding
 | [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/nainshi880/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/nainshi880/LeetCode/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -264,6 +265,7 @@ coding
 | [0504-base-7](https://github.com/nainshi880/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainshi880/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nainshi880/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/nainshi880/LeetCode/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/nainshi880/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nainshi880/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
