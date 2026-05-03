@@ -395,6 +395,7 @@ coding
 | [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/nainshi880/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/nainshi880/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nainshi880/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
@@ -1037,6 +1038,7 @@ coding
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nainshi880/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/nainshi880/LeetCode/tree/master/0812-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
