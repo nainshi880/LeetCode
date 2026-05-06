@@ -114,6 +114,7 @@ coding
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/nainshi880/LeetCode/tree/master/1046-last-stone-weight) |
+| [1095-find-in-mountain-array](https://github.com/nainshi880/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -554,6 +555,7 @@ coding
 | [0875-koko-eating-bananas](https://github.com/nainshi880/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/nainshi880/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/nainshi880/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nainshi880/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1539-kth-missing-positive-number](https://github.com/nainshi880/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -920,6 +922,7 @@ coding
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nainshi880/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/nainshi880/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Simulation
 |  |
 | ------- |
