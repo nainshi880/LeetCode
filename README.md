@@ -179,6 +179,7 @@ coding
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -227,6 +228,7 @@ coding
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
