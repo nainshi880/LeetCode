@@ -161,6 +161,7 @@ coding
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nainshi880/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nainshi880/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -229,6 +230,7 @@ coding
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nainshi880/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
