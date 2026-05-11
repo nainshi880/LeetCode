@@ -302,6 +302,7 @@ coding
 | [2413-smallest-even-multiple](https://github.com/nainshi880/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/nainshi880/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/nainshi880/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2544-alternating-digit-sum](https://github.com/nainshi880/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nainshi880/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/nainshi880/LeetCode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/nainshi880/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
