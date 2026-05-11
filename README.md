@@ -185,6 +185,7 @@ coding
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nainshi880/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -959,6 +960,7 @@ coding
 | [2553-separate-the-digits-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Tree
 |  |
 | ------- |
