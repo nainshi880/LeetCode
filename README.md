@@ -134,6 +134,7 @@ coding
 | [1550-three-consecutive-odds](https://github.com/nainshi880/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nainshi880/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nainshi880/LeetCode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -741,6 +742,7 @@ coding
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -838,6 +840,7 @@ coding
 | [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/nainshi880/LeetCode/tree/master/2032-largest-odd-number-in-string) |
