@@ -186,6 +186,7 @@ coding
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -712,6 +713,7 @@ coding
 | [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nainshi880/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Sorting
 |  |
 | ------- |
@@ -1124,6 +1126,7 @@ coding
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/nainshi880/LeetCode/tree/master/0319-bulb-switcher) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Segment Tree
 |  |
 | ------- |
