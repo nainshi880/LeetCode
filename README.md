@@ -126,6 +126,7 @@ coding
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nainshi880/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/nainshi880/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/nainshi880/LeetCode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -505,6 +506,7 @@ coding
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -883,6 +885,7 @@ coding
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nainshi880/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/nainshi880/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/nainshi880/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
