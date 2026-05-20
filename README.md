@@ -170,6 +170,7 @@ coding
 | [2540-minimum-common-value](https://github.com/nainshi880/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nainshi880/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nainshi880/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/nainshi880/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -524,6 +525,7 @@ coding
 | [2395-find-subarrays-with-equal-sum](https://github.com/nainshi880/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/nainshi880/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nainshi880/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/nainshi880/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nainshi880/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -729,6 +731,7 @@ coding
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/nainshi880/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2478-longest-nice-subarray](https://github.com/nainshi880/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2506-count-pairs-of-similar-strings](https://github.com/nainshi880/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nainshi880/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nainshi880/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
