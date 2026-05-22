@@ -301,6 +301,7 @@ coding
 | [1071-greatest-common-divisor-of-strings](https://github.com/nainshi880/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nainshi880/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/nainshi880/LeetCode/tree/master/1390-four-divisors) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -722,6 +723,7 @@ coding
 | [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/nainshi880/LeetCode/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nainshi880/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nainshi880/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
