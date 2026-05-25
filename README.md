@@ -247,6 +247,7 @@ coding
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1340-jump-game-v](https://github.com/nainshi880/LeetCode/tree/master/1340-jump-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nainshi880/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nainshi880/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -456,6 +457,7 @@ coding
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/nainshi880/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nainshi880/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nainshi880/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -564,6 +566,7 @@ coding
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nainshi880/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -702,6 +705,7 @@ coding
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nainshi880/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nainshi880/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/nainshi880/LeetCode/tree/master/2485-find-the-pivot-integer) |
