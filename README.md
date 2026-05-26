@@ -434,6 +434,7 @@ coding
 | [0443-string-compression](https://github.com/nainshi880/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/nainshi880/LeetCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/nainshi880/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/nainshi880/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/nainshi880/LeetCode/tree/master/0686-repeated-string-match) |
