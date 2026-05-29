@@ -450,6 +450,7 @@ coding
 | [0942-di-string-match](https://github.com/nainshi880/LeetCode/tree/master/0942-di-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nainshi880/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/nainshi880/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nainshi880/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1332-remove-palindromic-subsequences](https://github.com/nainshi880/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
