@@ -458,6 +458,7 @@ coding
 | [1446-consecutive-characters](https://github.com/nainshi880/LeetCode/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nainshi880/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1678-goal-parser-interpretation](https://github.com/nainshi880/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nainshi880/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
