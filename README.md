@@ -466,6 +466,7 @@ coding
 | [1768-merge-strings-alternately](https://github.com/nainshi880/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/nainshi880/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nainshi880/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1859-sorting-the-sentence](https://github.com/nainshi880/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -802,6 +803,7 @@ coding
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nainshi880/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1859-sorting-the-sentence](https://github.com/nainshi880/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nainshi880/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
