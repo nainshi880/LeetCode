@@ -155,6 +155,7 @@ coding
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nainshi880/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nainshi880/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nainshi880/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1920-build-array-from-permutation](https://github.com/nainshi880/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nainshi880/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nainshi880/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1044,6 +1045,7 @@ coding
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nainshi880/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1920-build-array-from-permutation](https://github.com/nainshi880/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nainshi880/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
