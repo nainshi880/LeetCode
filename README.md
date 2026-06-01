@@ -144,6 +144,7 @@ coding
 | [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nainshi880/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1672-richest-customer-wealth](https://github.com/nainshi880/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nainshi880/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nainshi880/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/nainshi880/LeetCode/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
@@ -364,6 +365,7 @@ coding
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/nainshi880/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/nainshi880/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nainshi880/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nainshi880/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/nainshi880/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
