@@ -131,6 +131,7 @@ coding
 | [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nainshi880/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/nainshi880/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/nainshi880/LeetCode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1055,6 +1056,7 @@ coding
 | [0682-baseball-game](https://github.com/nainshi880/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/nainshi880/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/nainshi880/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nainshi880/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
