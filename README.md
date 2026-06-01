@@ -488,6 +488,7 @@ coding
 | [1768-merge-strings-alternately](https://github.com/nainshi880/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/nainshi880/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nainshi880/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nainshi880/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/nainshi880/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/nainshi880/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/nainshi880/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -566,6 +567,7 @@ coding
 | [1512-number-of-good-pairs](https://github.com/nainshi880/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nainshi880/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nainshi880/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nainshi880/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/nainshi880/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/nainshi880/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
