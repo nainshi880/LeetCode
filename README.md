@@ -765,6 +765,7 @@ coding
 | [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/nainshi880/LeetCode/tree/master/0868-binary-gap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1009-complement-of-base-10-integer](https://github.com/nainshi880/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nainshi880/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
