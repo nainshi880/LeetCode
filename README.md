@@ -211,6 +211,7 @@ coding
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nainshi880/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/nainshi880/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -420,6 +421,7 @@ coding
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/nainshi880/LeetCode/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -661,6 +663,7 @@ coding
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3161-block-placement-queries](https://github.com/nainshi880/LeetCode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
@@ -851,6 +854,7 @@ coding
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/nainshi880/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -952,6 +956,7 @@ coding
 | [2384-largest-palindromic-number](https://github.com/nainshi880/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nainshi880/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
