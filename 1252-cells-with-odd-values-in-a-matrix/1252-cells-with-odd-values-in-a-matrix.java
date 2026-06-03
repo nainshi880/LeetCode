@@ -1,0 +1,25 @@
+class Solution {
+    public int oddCells(int m, int n, int[][] indices) {
+        int count = 0;
+       int [][]arr = new int[m][n];
+       for(int[] ind : indices){
+        int r = ind[0];
+        int c = ind[1];
+       
+       for(int i=0;i<n;i++){
+        arr[r][i]++;
+       }
+       for(int j=0;j<m;j++){
+        arr[j][c]++;
+       }
+       }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(arr[i][j]%2 != 0){
+                    count++;
+                }
+            }
+        }
+        return count;
+    }
+}
