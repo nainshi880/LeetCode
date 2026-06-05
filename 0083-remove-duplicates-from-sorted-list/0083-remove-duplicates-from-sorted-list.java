@@ -15,17 +15,13 @@ class Solution {
         }
 
         ListNode i = head;
-        ListNode j = head;
-
-        while(j != null){
-            if(i.val == j.val){
-               j = j.next;
+        while(i.next != null){
+            if(i.next != null && i.val == i.next.val){
+                i.next = i.next.next;
             }else{
-                i.next = j;
-                i = j;
+                i = i.next;
             }
         }
-           i.next = j;
     
         return head;
     }
