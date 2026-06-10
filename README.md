@@ -228,6 +228,7 @@ coding
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3693-climbing-stairs-ii](https://github.com/nainshi880/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -901,6 +902,7 @@ coding
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -990,6 +992,7 @@ coding
 | [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nainshi880/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1279,6 +1282,7 @@ coding
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/nainshi880/LeetCode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
