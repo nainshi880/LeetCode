@@ -237,6 +237,7 @@ coding
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nainshi880/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nainshi880/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -551,6 +552,7 @@ coding
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -1128,6 +1130,7 @@ coding
 | [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
