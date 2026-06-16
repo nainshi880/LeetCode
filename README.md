@@ -553,6 +553,7 @@ coding
 | [3280-convert-date-to-binary](https://github.com/nainshi880/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nainshi880/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -1134,6 +1135,7 @@ coding
 | [2553-separate-the-digits-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/nainshi880/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Tree
