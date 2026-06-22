@@ -512,6 +512,7 @@ coding
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/nainshi880/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nainshi880/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/nainshi880/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/nainshi880/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/nainshi880/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -600,6 +601,7 @@ coding
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/nainshi880/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -717,6 +719,7 @@ coding
 | [0451-sort-characters-by-frequency](https://github.com/nainshi880/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nainshi880/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/nainshi880/LeetCode/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/nainshi880/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/nainshi880/LeetCode/tree/master/1512-number-of-good-pairs) |
