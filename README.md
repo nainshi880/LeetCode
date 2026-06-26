@@ -238,6 +238,7 @@ coding
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nainshi880/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nainshi880/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -313,6 +314,7 @@ coding
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -646,6 +648,7 @@ coding
 | [3718-smallest-missing-multiple-of-k](https://github.com/nainshi880/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nainshi880/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nainshi880/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sliding Window
@@ -825,6 +828,7 @@ coding
 | [3699-number-of-zigzag-arrays-i](https://github.com/nainshi880/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1311,6 +1315,7 @@ coding
 | [0023-merge-k-sorted-lists](https://github.com/nainshi880/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nainshi880/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -1329,6 +1334,7 @@ coding
 | [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/nainshi880/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nainshi880/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/nainshi880/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
