@@ -206,6 +206,7 @@ coding
 | [2784-check-if-array-is-good](https://github.com/nainshi880/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nainshi880/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nainshi880/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/nainshi880/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/nainshi880/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -635,6 +636,7 @@ coding
 | [2784-check-if-array-is-good](https://github.com/nainshi880/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nainshi880/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nainshi880/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nainshi880/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nainshi880/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nainshi880/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -988,6 +990,7 @@ coding
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/nainshi880/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nainshi880/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nainshi880/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
