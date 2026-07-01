@@ -205,6 +205,7 @@ coding
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nainshi880/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nainshi880/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/nainshi880/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nainshi880/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nainshi880/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -417,6 +418,7 @@ coding
 | [1672-richest-customer-wealth](https://github.com/nainshi880/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nainshi880/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/nainshi880/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/nainshi880/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -716,6 +718,7 @@ coding
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/nainshi880/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nainshi880/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/nainshi880/LeetCode/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -942,6 +945,7 @@ coding
 | [1046-last-stone-weight](https://github.com/nainshi880/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nainshi880/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nainshi880/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
@@ -1055,6 +1059,7 @@ coding
 | [1306-jump-game-iii](https://github.com/nainshi880/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
 |  |
@@ -1365,6 +1370,7 @@ coding
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nainshi880/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
