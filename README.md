@@ -131,6 +131,7 @@ coding
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nainshi880/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nainshi880/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/nainshi880/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/nainshi880/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nainshi880/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/nainshi880/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
@@ -617,6 +618,7 @@ coding
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/nainshi880/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/nainshi880/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/nainshi880/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nainshi880/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -910,6 +912,7 @@ coding
 | [0846-hand-of-straights](https://github.com/nainshi880/LeetCode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/nainshi880/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainshi880/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/nainshi880/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/nainshi880/LeetCode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nainshi880/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nainshi880/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
