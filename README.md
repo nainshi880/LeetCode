@@ -126,6 +126,7 @@ coding
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nainshi880/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nainshi880/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nainshi880/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -414,6 +415,7 @@ coding
 | [0861-score-after-flipping-matrix](https://github.com/nainshi880/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/nainshi880/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1165,6 +1167,7 @@ coding
 | [0832-flipping-an-image](https://github.com/nainshi880/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/nainshi880/LeetCode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nainshi880/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/nainshi880/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nainshi880/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/nainshi880/LeetCode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
