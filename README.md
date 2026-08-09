@@ -122,6 +122,7 @@ coding
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/nainshi880/LeetCode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/nainshi880/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nainshi880/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/nainshi880/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -286,6 +287,7 @@ coding
 | [0931-minimum-falling-path-sum](https://github.com/nainshi880/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/nainshi880/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nainshi880/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1340-jump-game-v](https://github.com/nainshi880/LeetCode/tree/master/1340-jump-game-v) |
@@ -356,6 +358,7 @@ coding
 | [1013-fibonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nainshi880/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nainshi880/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nainshi880/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/nainshi880/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -825,6 +828,7 @@ coding
 | [0930-binary-subarrays-with-sum](https://github.com/nainshi880/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/nainshi880/LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/nainshi880/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nainshi880/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nainshi880/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/nainshi880/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1406,4 +1410,16 @@ coding
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nainshi880/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
