@@ -213,6 +213,7 @@ coding
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/nainshi880/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nainshi880/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nainshi880/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nainshi880/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/nainshi880/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/nainshi880/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nainshi880/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1184,6 +1185,7 @@ coding
 | [2265-partition-array-according-to-given-pivot](https://github.com/nainshi880/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nainshi880/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nainshi880/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/nainshi880/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
