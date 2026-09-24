@@ -230,6 +230,7 @@ coding
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nainshi880/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nainshi880/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nainshi880/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -396,6 +397,7 @@ coding
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nainshi880/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nainshi880/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nainshi880/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nainshi880/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nainshi880/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nainshi880/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nainshi880/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
