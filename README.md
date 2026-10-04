@@ -1436,4 +1436,8 @@ coding
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nainshi880/LeetCode/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
