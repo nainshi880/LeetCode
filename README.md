@@ -547,6 +547,7 @@ coding
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nainshi880/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/nainshi880/LeetCode/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nainshi880/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nainshi880/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/nainshi880/LeetCode/tree/master/1678-goal-parser-interpretation) |
@@ -1051,6 +1052,7 @@ coding
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nainshi880/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1382-balance-a-binary-search-tree](https://github.com/nainshi880/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nainshi880/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nainshi880/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nainshi880/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/nainshi880/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1114,6 +1116,7 @@ coding
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nainshi880/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nainshi880/LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1440,4 +1443,5 @@ coding
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
