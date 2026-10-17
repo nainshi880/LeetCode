@@ -232,6 +232,7 @@ coding
 | [3483-alternating-groups-ii](https://github.com/nainshi880/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nainshi880/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nainshi880/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nainshi880/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nainshi880/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -668,6 +669,7 @@ coding
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nainshi880/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/nainshi880/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/nainshi880/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nainshi880/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nainshi880/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nainshi880/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -957,6 +959,7 @@ coding
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/nainshi880/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3430-count-days-without-meetings](https://github.com/nainshi880/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/nainshi880/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nainshi880/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nainshi880/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nainshi880/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
