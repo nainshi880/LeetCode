@@ -552,6 +552,7 @@ coding
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nainshi880/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nainshi880/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nainshi880/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/nainshi880/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nainshi880/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -1125,6 +1126,7 @@ coding
 | [1019-next-greater-node-in-linked-list](https://github.com/nainshi880/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nainshi880/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/nainshi880/LeetCode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1452,4 +1454,5 @@ coding
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nainshi880/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nainshi880/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nainshi880/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
