@@ -595,6 +595,7 @@ coding
 | [3614-process-string-with-special-operations-ii](https://github.com/nainshi880/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/nainshi880/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nainshi880/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
