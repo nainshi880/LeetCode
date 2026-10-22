@@ -254,6 +254,7 @@ coding
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nainshi880/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nainshi880/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/nainshi880/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/nainshi880/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
