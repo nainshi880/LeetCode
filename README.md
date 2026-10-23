@@ -241,6 +241,7 @@ coding
 | [3637-trionic-array-i](https://github.com/nainshi880/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/nainshi880/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nainshi880/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nainshi880/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nainshi880/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/nainshi880/LeetCode/tree/master/3660-jump-game-ix) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -907,6 +908,7 @@ coding
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/nainshi880/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nainshi880/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nainshi880/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nainshi880/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/nainshi880/LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Sorting
 |  |
