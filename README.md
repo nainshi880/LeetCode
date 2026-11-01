@@ -79,6 +79,7 @@ coding
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nainshi880/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nainshi880/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nainshi880/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nainshi880/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/nainshi880/LeetCode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/nainshi880/LeetCode/tree/master/0494-target-sum) |
@@ -357,6 +358,7 @@ coding
 | [0396-rotate-function](https://github.com/nainshi880/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/nainshi880/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/nainshi880/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nainshi880/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/nainshi880/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nainshi880/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nainshi880/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
